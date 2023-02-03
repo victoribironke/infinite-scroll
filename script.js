@@ -1,5 +1,4 @@
 const divs = document.querySelectorAll("div");
-const { log } = console;
 
 const randomColor = () => {
   const hue = Math.floor(Math.random() * 500);
